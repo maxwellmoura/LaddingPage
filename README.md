@@ -1,41 +1,65 @@
-Tom's Jazz School - Landing Page
-Descrição do Projeto
-Este projeto é uma Landing Page responsiva para a escola de música fictícia "Tom's Jazz School". A página tem o objetivo de atrair novos estudantes para cursos variados de música, incluindo piano popular, teoria musical, sax alto e bateria. A interface foi projetada com HTML e CSS, utilizando uma paleta de cores inspirada em tons clássicos de jazz para proporcionar uma experiência visual envolvente.
+# 🎶 Tom's Jazz School - Landing Page 🎶
 
-Funcionalidades Principais
-Navegação Simples: Inclui links para as seções "Início", "Cursos", "Eventos" e "Contatos".
-CTA (Call to Action): Botões de chamada para ação, como "Se inscreva" e "Comece agora", incentivando o usuário a explorar e se inscrever nos cursos.
-Sessão de Cursos: Apresenta os cursos oferecidos com ícones ilustrativos e um link para cada curso específico.
-Formulário de Newsletter: Inscrição para receber materiais gratuitos diretamente no email.
-Design Responsivo: A página se adapta bem a diferentes tamanhos de tela (desktop, tablets e dispositivos móveis).
-Estrutura de Arquivos
-O projeto é composto pelos seguintes arquivos e diretórios:
+![Tom's Jazz School](./img/logo.svg)
 
-graphql
-Copiar código
-Tom's Jazz School Landing Page
-├── index.html              # Estrutura principal da página
-├── estilo.css              # Estilos principais da página
-├── /img                    # Imagens e ícones usados no site
-│   ├── logo.svg            # Logo da escola de jazz
-│   ├── hero-img.svg        # Imagem principal de destaque (banda de jazz)
-│   ├── piano.png           # Ícone de piano
-│   ├── clef.png            # Ícone de clave
-│   ├── sax.png             # Ícone de saxofone
-│   ├── drums.png           # Ícone de bateria
-│   ├── arrow-right.svg     # Ícone de seta para cursos
-│   ├── arrow-curve.svg     # Ícone decorativo
-│   ├── three-dashes.svg    # Ícone decorativo de três traços
-└── README.md               # Documentação do projeto
-Tecnologias Utilizadas
-HTML5: Para a estruturação e o conteúdo da página.
-CSS3: Para estilização e design responsivo.
-Google Fonts (Roboto): Tipografia personalizada para uma estética mais moderna.
-Como Visualizar o Projeto
-Clone o repositório para sua máquina:
-git clone https://github.com/seu-usuario/toms-jazz-school-landing.git
-Navegue até o diretório do projeto:
-cd toms-jazz-school-landing
+## Descrição
+Este projeto é uma **landing page** para a **Tom's Jazz School**, uma escola de música focada no ensino de instrumentos e teoria musical. A página apresenta uma interface atraente e funcional, projetada para atrair novos alunos e fornecer informações sobre os cursos oferecidos pela escola.
 
-Créditos
-Este projeto foi desenvolvido com o intuito de praticar e demonstrar habilidades em HTML e CSS, incluindo design responsivo e o uso de layouts flexíveis.
+### Tecnologias Utilizadas
+- **HTML5**
+- **CSS3**
+- **Google Fonts** (Roboto)
+- **Imagens e Ícones Customizados**
+
+---
+
+## 🌟 Funcionalidades
+
+### 1. **Navegação**
+   - Menu de navegação com links para as seções principais: Início, Cursos, Eventos e Contatos.
+   - Botão de chamada para ação para **"Se inscreva"**.
+
+### 2. **Seção Principal (Hero)**
+   - Imagem destacada com uma banda de jazz.
+   - Slogan impactante e uma breve introdução à escola.
+
+### 3. **Cursos**
+   - Apresentação dos cursos em destaque: Piano, Teoria Musical, Sax Alto e Bateria.
+   - Botão para explorar todos os cursos.
+
+### 4. **Formulário de Inscrição no Footer**
+   - Inscreva-se para receber materiais gratuitos no e-mail.
+
+---
+
+## 📐 Layout e Estilo
+
+### Paleta de Cores
+- **Primária:** `#ED4D1B`
+- **Secundária:** `#FF9A3C`
+- **Preto:** `#000`
+- **Branco:** `#FFF`
+
+### Tipografia
+- **Fonte Principal:** [Roboto](https://fonts.google.com/specimen/Roboto) (Google Fonts)
+
+### Responsividade
+A página é **totalmente responsiva** para diversos dispositivos, com quebras de layout adaptadas para:
+- Telas menores que **300px**
+- Telas de **300px a 600px**
+- Telas maiores que **1200px**
+
+---
+
+## 🚀 Como Usar
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seuusuario/toms-jazz-school.git
+cd toms-jazz-school
+
+.
+├── index.html          # Estrutura HTML principal
+├── estilo.css          # Estilos principais da página
+├── img/                # Diretório de imagens e ícones
+└── README.md           # Documentação do projeto
